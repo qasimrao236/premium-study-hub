@@ -7,7 +7,7 @@
             "c": "The study of thought",
             "d": "The study of motion"
         },
-        "answer": "b"
+        "answer": "The study of life"
     },
     {
         "question": "What are the three major divisions of biology?",
@@ -17,7 +17,7 @@
             "c": "Botany, Zoology, and Microbiology",
             "d": "Anatomy, Physiology, and Genetics"
         },
-        "answer": "c"
+        "answer": "Botany, Zoology, and Chemistry"
     },
     {
         "question": "What does embryology study?",
@@ -27,7 +27,7 @@
             "c": "The study of the development of an embryo",
             "d": "The study of social behavior of animals"
         },
-        "answer": "c"
+        "answer": "The study of the development of an embryo"
     },
     {
         "question": "What does taxonomy study?",
@@ -37,7 +37,7 @@
             "c": "The study of naming and classification of organisms",
             "d": "The study of insects"
         },
-        "answer": "c"
+        "answer": "The study of fossils"
     },
     {
         "question": "What is biotechnology?",
