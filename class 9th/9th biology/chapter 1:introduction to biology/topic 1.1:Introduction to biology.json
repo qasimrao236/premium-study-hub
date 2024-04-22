@@ -1,0 +1,304 @@
+[
+    {
+        "question": "What is biology?",
+        "options": {
+            "a": "The study of reasoning",
+            "b": "The study of life",
+            "c": "The study of thought",
+            "d": "The study of motion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What are the three major divisions of biology?",
+        "options": {
+            "a": "Botany, Zoology, and Chemistry",
+            "b": "Chemistry, Microbiology, and Anatomy",
+            "c": "Botany, Zoology, and Microbiology",
+            "d": "Anatomy, Physiology, and Genetics"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does embryology study?",
+        "options": {
+            "a": "The study of fossils",
+            "b": "The study of the immune system",
+            "c": "The study of the development of an embryo",
+            "d": "The study of social behavior of animals"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does taxonomy study?",
+        "options": {
+            "a": "The study of genes",
+            "b": "The study of fossils",
+            "c": "The study of naming and classification of organisms",
+            "d": "The study of insects"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is biotechnology?",
+        "options": {
+            "a": "The study of drugs",
+            "b": "The study of microorganisms",
+            "c": "The practical application of living organisms for the welfare of mankind",
+            "d": "The study of the immune system"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which profession deals with fish production?",
+        "options": {
+            "a": "Agriculture",
+            "b": "Horticulture",
+            "c": "Fisheries",
+            "d": "Animal husbandry"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the common origin of all living things according to the Quran?",
+        "options": {
+            "a": "From clay",
+            "b": "From water",
+            "c": "From air",
+            "d": "From fire"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the profession that deals with the care and breeding of domestic animals?",
+        "options": {
+            "a": "Forestry",
+            "b": "Agriculture",
+            "c": "Animal husbandry",
+            "d": "Horticulture"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does biophysics study?",
+        "options": {
+            "a": "The chemistry of different compounds",
+            "b": "The occurrence and distribution of different species",
+            "c": "The principles of physics applicable to biological phenomena",
+            "d": "The study of biological processes using mathematical techniques"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is biochemistry?",
+        "options": {
+            "a": "The study of drugs",
+            "b": "The study of different compounds and processes occurring in living organisms",
+            "c": "The study of the principles of physics applicable to biological phenomena",
+            "d": "The study of biological processes using mathematical techniques"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is histology?",
+        "options": {
+            "a": "The study of fossils",
+            "b": "The study of tissues",
+            "c": "The study of insects",
+            "d": "The study of drugs"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does parasitology study?",
+        "options": {
+            "a": "The study of genes",
+            "b": "The study of parasites",
+            "c": "The study of fossils",
+            "d": "The study of drugs"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does immunology study?",
+        "options": {
+            "a": "The study of drugs",
+            "b": "The study of insects",
+            "c": "The study of the immune system",
+            "d": "The study of genes"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does pharmacology study?",
+        "options": {
+            "a": "The study of genes",
+            "b": "The study of insects",
+            "c": "The study of the immune system",
+            "d": "The study of drugs and their effects on the systems of the human body"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is genetics?",
+        "options": {
+            "a": "The study of the immune system",
+            "b": "The study of genes and their roles in inheritance",
+            "c": "The study of drugs",
+            "d": "The study of insects"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is biogeography?",
+        "options": {
+            "a": "The study of insects",
+            "b": "The study of genes",
+            "c": "The study of the occurrence and distribution of different species of living organisms in different geographical regions of the world",
+            "d": "The study of fossils"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does bioeconomics study?",
+        "options": {
+            "a": "The study of insects",
+            "b": "The study of genes",
+            "c": "The study of organisms from an economical point of view",
+            "d": "The study of fossils"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is biophysics?",
+        "options": {
+            "a": "The study of genes",
+            "b": "The study of fossils",
+            "c": "The study of the principles of physics applicable to biological phenomena",
+            "d": "The study of insects"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is biomathematics/biometry?",
+        "options": {
+            "a": "The study of genes",
+            "b": "The study of biological processes using mathematical techniques and tools",
+            "c": "The study of the immune system",
+            "d": "The study of insects"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does biotechnology study?",
+        "options": {
+            "a": "The study of drugs",
+            "b": "The study of microorganisms",
+            "c": "The practical application of living organisms for the welfare of mankind",
+            "d": "The study of the immune system"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the study of the structures and functions of cells and cell organelles called?",
+        "options": {
+            "a": "Anatomy",
+            "b": "Histology",
+            "c": "Cell biology",
+            "d": "Morphology"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the study of the development of an embryo to a new individual called?",
+        "options": {
+            "a": "Genetics",
+            "b": "Embryology",
+            "c": "Taxonomy",
+            "d": "Palaeontology"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which branch of biology deals with the study of social behavior of animals that make societies?",
+        "options": {
+            "a": "Environmental biology",
+            "b": "Socio-biology",
+            "c": "Biotechnology",
+            "d": "Parasitology"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the study of the naming and classification of organisms into groups and subgroups called?",
+        "options": {
+            "a": "Histology",
+            "b": "Genetics",
+            "c": "Taxonomy",
+            "d": "Entomology"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which branch of biology deals with the study of insects?",
+        "options": {
+            "a": "Parasitology",
+            "b": "Entomology",
+            "c": "Pharmacology",
+            "d": "Biotechnology"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the study of the interactions between organisms and their environment called?",
+        "options": {
+            "a": "Environmental biology",
+            "b": "Socio-biology",
+            "c": "Parasitology",
+            "d": "Biotechnology"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which branch of biology deals with the study of drugs and their effects on the systems of the human body?",
+        "options": {
+            "a": "Immunology",
+            "b": "Biotechnology",
+            "c": "Pharmacology",
+            "d": "Parasitology"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does biogeography study?",
+        "options": {
+            "a": "The study of drugs",
+            "b": "The study of genes",
+            "c": "The study of the occurrence and distribution of different species of living organisms in different geographical regions of the world",
+            "d": "The study of fossils"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does bioeconomics study?",
+        "options": {
+            "a": "The study of insects",
+            "b": "The study of genes",
+            "c": "The study of organisms from an economical point of view",
+            "d": "The study of fossils"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is biophysics?",
+        "options": {
+            "a": "The study of genes",
+            "b": "The study of fossils",
+            "c": "The study of the principles of physics applicable to biological phenomena",
+            "d": "The study of insects"
+        },
+        "answer": "c"
+    }
+]
+
+
