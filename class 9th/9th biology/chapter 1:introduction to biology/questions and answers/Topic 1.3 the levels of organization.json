@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What are the three major levels of biological organization studied by biologists?",
+        "answer": "Subatomic and Atomic level, Molecular level, Organelle and Cell level"
+    },
+    {
+        "question": "What are bioelements and how many of them make up 99% of the total mass of living organisms?",
+        "answer": "Bioelements are elements that take part in making the body mass of a living organism. Only six bioelements, namely Oxygen, Carbon, Hydrogen, Nitrogen, Calcium, and Phosphorus, make up 99% of the total mass."
+    },
+    {
+        "question": "Describe the structure of an atom and the role of its subatomic particles.",
+        "answer": "An atom consists of a nucleus containing protons and neutrons, surrounded by orbiting electrons. Protons and neutrons are located in the nucleus, while electrons orbit in energy levels around the nucleus. Protons have a positive charge, neutrons have no charge, and electrons have a negative charge. The number of electrons in the outermost shell determines the manner in which atoms react with each other."
+    },
+    {
+        "question": "What is a molecule and how does it relate to bioelements?",
+        "answer": "A molecule is the stable particle formed by the bonding of bioelements through ionic or covalent bonds. In organisms, bioelements combine to form molecules or biomolecules, which serve as the building material for various biological structures."
+    },
+    {
+        "question": "What are micromolecules and macromolecules, and provide examples of each.",
+        "answer": "Micromolecules are biomolecules with low molecular weight, such as glucose and water. Macromolecules are biomolecules with high molecular weights, such as starch, proteins, and lipids."
+    },
+    {
+        "question": "How do organelles contribute to the formation of cells, and what are their specialized functions?",
+        "answer": "Biomolecules assemble to form organelles, which are sub-cellular structures. These organelles assemble together to form cells, the basic units of life. Each type of organelle is specialized to perform a specific function, such as mitochondria for cellular respiration and ribosomes for protein synthesis."
+    },
+    {
+        "question": "Define tissue and provide examples of plant and animal tissues.",
+        "answer": "A tissue is a group of similar cells specialized for the performance of a common function. Examples of plant tissues include epidermal tissue and ground tissue, while examples of animal tissues include nervous tissue and muscular tissue."
+    },
+    {
+        "question": "What is an organ, and how does it differ from a tissue?",
+        "answer": "An organ is a group of different cells specialized for a common function, organized together into a structural unit. This differs from a tissue, which consists of a group of similar cells specialized for a common function."
+    },
+    {
+        "question": "Explain the concept of an organ system and provide an example.",
+        "answer": "An organ system is a group of organs working together to perform specific functions. For example, the digestive system is an organ system that includes organs such as the stomach, small intestine, and liver, all working together to digest food."
+    },
+    {
+        "question": "Describe the organization of individuals or organisms in terms of their organs and organ systems.",
+        "answer": "Individuals or organisms are formed by the organization of different organs and organ systems. Each organ system carries out its specific function, and the functions of all organs collectively contribute to the overall function of the organism."
+    }
+]
