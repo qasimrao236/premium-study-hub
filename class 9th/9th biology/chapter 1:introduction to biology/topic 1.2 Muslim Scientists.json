@@ -1,0 +1,192 @@
+[
+    {
+        "question": "Where was Jabir Bin Hayan born?",
+        "options": {
+            "a": "Iraq",
+            "b": "Iran",
+            "c": "Saudi Arabia",
+            "d": "Egypt"
+        },
+        "answer": "Iran"
+    },
+    {
+        "question": "Which field did Jabir Bin Hayan introduce experimental investigation into?",
+        "options": {
+            "a": "Biology",
+            "b": "Chemistry",
+            "c": "Physics",
+            "d": "Astronomy"
+        },
+        "answer": "Chemistry"
+    },
+    {
+        "question": "Which of the following books was written by Jabir Bin Hayan?",
+        "options": {
+            "a": "Al-Abil",
+            "b": "Al-Khail",
+            "c": "Al-Nabatat",
+            "d": "Al-Wahoosh"
+        },
+        "answer": "Al-Nabatat"
+    },
+    {
+        "question": "Who is considered the first Muslim scientist to study animals in detail?",
+        "options": {
+            "a": "Jabir Bin Hayan",
+            "b": "Abdul Malik Asmai",
+            "c": "Bu Ali Sina",
+            "d": "Al-Khwarizmi"
+        },
+        "answer": "Abdul Malik Asmai"
+    },
+    {
+        "question": "Which book by Abdul Malik Asmai is about camels?",
+        "options": {
+            "a": "Al-Abil",
+            "b": "Al-Khail",
+            "c": "Al-Wahoosh",
+            "d": "Kalq al-Ansan"
+        },
+        "answer": "Al-Abil"
+    },
+    {
+        "question": "Who is honored as the founder of medicine among the Muslim scientists?",
+        "options": {
+            "a": "Jabir Bin Hayan",
+            "b": "Abdul Malik Asmai",
+            "c": "Bu Ali Sina",
+            "d": "Al-Khwarizmi"
+        },
+        "answer": "Bu Ali Sina"
+    },
+    {
+        "question": "What is Bu Ali Sina called in the West?",
+        "options": {
+            "a": "Avicenna",
+            "b": "Averroes",
+            "c": "Alhazen",
+            "d": "Al-Khwarizmi"
+        },
+        "answer": "Avicenna"
+    },
+    {
+        "question": "Which of the following fields was Bu Ali Sina NOT involved in?",
+        "options": {
+            "a": "Medicine",
+            "b": "Philosophy",
+            "c": "Astronomy",
+            "d": "Engineering"
+        },
+        "answer": "Engineering"
+    },
+    {
+        "question": "Which book by Bu Ali Sina is known as the canon of medicine in the West?",
+        "options": {
+            "a": "Al-Qanun-fi al-Tib",
+            "b": "Al-Jabr wa'l-Muqabala",
+            "c": "Al-Mukhtasar fi Hisab al-Jabr wal-Muqabala",
+            "d": "Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala"
+        },
+        "answer": "Al-Qanun-fi al-Tib"
+    },
+   {
+        "question": "Which century did Jabir Bin Hayan live in?",
+        "options": {
+            "a": "7th century",
+            "b": "8th century",
+            "c": "9th century",
+            "d": "10th century"
+        },
+        "answer": "8th century"
+    },
+    {
+        "question": "Which country did Abdul Malik Asmai belong to?",
+        "options": {
+            "a": "Iran",
+            "b": "Iraq",
+            "c": "Saudi Arabia",
+            "d": "Egypt"
+        },
+        "answer": "Iran"
+    },
+    {
+        "question": "Which of the following animals did Abdul Malik Asmai NOT study?",
+        "options": {
+            "a": "Camel",
+            "b": "Horse",
+            "c": "Dog",
+            "d": "Wild animals"
+        },
+        "answer": "Dog"
+    },
+    {
+        "question": "In which century did Bu Ali Sina live?",
+        "options": {
+            "a": "9th century",
+            "b": "10th century",
+            "c": "11th century",
+            "d": "12th century"
+        },
+        "answer": "10th century"
+    },
+    {
+        "question": "Apart from medicine, what other field was Bu Ali Sina known for?",
+        "options": {
+            "a": "Physics",
+            "b": "Chemistry",
+            "c": "Mathematics",
+            "d": "Literature"
+        },
+        "answer": "Philosophy"
+    },
+    {
+        "question": "Which book by Bu Ali Sina is considered a major work in philosophy?",
+        "options": {
+            "a": "Al-Qanun-fi al-Tib",
+            "b": "Al-Jabr wa'l-Muqabala",
+            "c": "Al-Mukhtasar fi Hisab al-Jabr wal-Muqabala",
+            "d": "Kitab al-Shifa"
+        },
+        "answer": "Kitab al-Shifa"
+    },
+    {
+        "question": "Which field did Bu Ali Sina contribute to significantly besides philosophy and medicine?",
+        "options": {
+            "a": "Astronomy",
+            "b": "Chemistry",
+            "c": "Biology",
+            "d": "Geology"
+        },
+        "answer": "Astronomy"
+    },
+    {
+        "question": "Which of the following books by Bu Ali Sina is NOT related to medicine?",
+        "options": {
+            "a": "Al-Qanun-fi al-Tib",
+            "b": "Al-Jabr wa'l-Muqabala",
+            "c": "Kitab al-Shifa",
+            "d": "Fiqh al-Madani"
+        },
+        "answer": "Al-Jabr wa'l-Muqabala"
+    },
+    {
+        "question": "Which of these titles is NOT associated with Bu Ali Sina?",
+        "options": {
+            "a": "Father of Medicine",
+            "b": "Prince of Physicians",
+            "c": "Master of Medicine",
+            "d": "Sultan of Science"
+        },
+        "answer": "Sultan of Science"
+    },
+    {
+        "question": "Which of the following is a notable contribution of Bu Ali Sina to astronomy?",
+        "options": {
+            "a": "Discovery of Neptune",
+            "b": "Development of the heliocentric model",
+            "c": "Introduction of the concept of inertia",
+            "d": "Explanation of lunar eclipses"
+        },
+        "answer": "Explanation of lunar eclipses"
+    }
+]
