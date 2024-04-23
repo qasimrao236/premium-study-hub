@@ -1,0 +1,202 @@
+    [
+       {
+        "question": "What is the smallest part of a compound that retains the properties of that compound?",
+        "options": {
+            "a": "Element",
+            "b": "Atom",
+            "c": "Molecule",
+            "d": "Subatomic particle"
+        },
+        "answer": "Molecule"
+    },
+    {
+        "question": "What are the two main types of biomolecules?",
+        "options": {
+            "a": "Inorganic and organic",
+            "b": "Proteins and carbohydrates",
+            "c": "Micromolecules and macromolecules",
+            "d": "Monomers and polymers"
+        },
+        "answer": "Micromolecules and macromolecules"
+    },
+    {
+        "question": "Which of the following organelles is specialized for cellular respiration?",
+        "options": {
+            "a": "Ribosomes",
+            "b": "Mitochondria",
+            "c": "Endoplasmic reticulum",
+            "d": "Golgi apparatus"
+        },
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "What is a tissue?",
+        "options": {
+            "a": "A group of similar cells specialized for a common function",
+            "b": "A group of different cells specialized for a common function",
+            "c": "A group of organs working together",
+            "d": "A group of organelles performing a specific function"
+        },
+        "answer": "A group of similar cells specialized for a common function"
+    },
+    {
+        "question": "What is an organ?",
+        "options": {
+            "a": "A group of similar cells specialized for a common function",
+            "b": "A group of different cells specialized for a common function",
+            "c": "A group of organs working together",
+            "d": "A group of organelles performing a specific function"
+        },
+        "answer": "A group of different cells specialized for a common function"
+    },
+    {
+        "question": "What is an organ system?",
+        "options": {
+            "a": "A group of similar cells specialized for a common function",
+            "b": "A group of different cells specialized for a common function",
+            "c": "A group of organs working together",
+            "d": "A group of organelles performing a specific function"
+        },
+        "answer": "A group of organs working together"
+    },
+    {
+        "question": "What is the next level of organization above the organ system level?",
+        "options": {
+            "a": "Tissue level",
+            "b": "Individual level",
+            "c": "Population level",
+            "d": "Community level"
+        },
+        "answer": "Individual level"
+    },
+    {
+        "question": "What is a population?",
+        "options": {
+            "a": "A group of organs working together",
+            "b": "A group of organisms of different species",
+            "c": "A group of similar cells specialized for a common function",
+            "d": "A group of organisms of the same species"
+        },
+        "answer": "A group of organisms of the same species"
+    },
+    {
+        "question": "What is a community?",
+        "options": {
+            "a": "A group of organs working together",
+            "b": "A group of organisms of different species",
+            "c": "A group of similar cells specialized for a common function",
+            "d": "A group of organisms of the same species"
+        },
+        "answer": "A group of organisms of different species"
+    },
+    {
+        "question": "What is the part of the Earth inhabited by organisms' communities called?",
+        "options": {
+            "a": "Biosphere",
+            "b": "Ecosystem",
+            "c": "Biome",
+            "d": "Habitat"
+        },
+        "answer": "Biosphere"
+    },
+      {
+        "question": "Which level of organization involves interactions among members of the same species living in the same habitat?",
+        "options": {
+            "a": "Tissue level",
+            "b": "Individual level",
+            "c": "Population level",
+            "d": "Community level"
+        },
+        "answer": "Population level"
+    },
+    {
+        "question": "What is the term for an assemblage of different populations interacting with one another within the same environment?",
+        "options": {
+            "a": "Population",
+            "b": "Community",
+            "c": "Ecosystem",
+            "d": "Biome"
+        },
+        "answer": "Community"
+    },
+    {
+        "question": "What is the level of organization above the community level?",
+        "options": {
+            "a": "Population level",
+            "b": "Biosphere level",
+            "c": "Individual level",
+            "d": "Organ system level"
+        },
+        "answer": "Biosphere level"
+    },
+    {
+        "question": "What constitutes all ecosystems and is also called the zone of life on Earth?",
+        "options": {
+            "a": "Biosphere",
+            "b": "Ecosystem",
+            "c": "Biome",
+            "d": "Habitat"
+        },
+        "answer": "Biosphere"
+    },
+    {
+        "question": "In multicellular organisms, what is formed when similar cells performing similar functions are organized into groups?",
+        "options": {
+            "a": "Organ",
+            "b": "Tissue",
+            "c": "Cell",
+            "d": "Organ system"
+        },
+        "answer": "Tissue"
+    },
+    {
+        "question": "What level of organization involves the coordination of functions, processes, and activities of various organs and organ systems?",
+        "options": {
+            "a": "Community level",
+            "b": "Population level",
+            "c": "Individual level",
+            "d": "Biosphere level"
+        },
+        "answer": "Individual level"
+    },
+    {
+        "question": "What level of organization includes interactions among different populations within the same environment?",
+        "options": {
+            "a": "Tissue level",
+            "b": "Individual level",
+            "c": "Community level",
+            "d": "Organ system level"
+        },
+        "answer": "Community level"
+    },
+    {
+        "question": "Which of the following levels of organization involves the interaction between living organisms and their nonliving environment?",
+        "options": {
+            "a": "Tissue level",
+            "b": "Individual level",
+            "c": "Biosphere level",
+            "d": "Organ system level"
+        },
+        "answer": "Biosphere level"
+    },
+    {
+        "question": "What is the term for a group of organs working together to perform specific functions?",
+        "options": {
+            "a": "Organ system",
+            "b": "Organ",
+            "c": "Tissue",
+            "d": "Cell"
+        },
+        "answer": "Organ system"
+    },
+    {
+        "question": "Which level of organization involves the interaction between different organs performing related functions?",
+        "options": {
+            "a": "Individual level",
+            "b": "Organ system level",
+            "c": "Population level",
+            "d": "Community level"
+        },
+        "answer": "Organ system level"
+    }
+]
