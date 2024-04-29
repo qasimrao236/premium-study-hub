@@ -1,38 +1,38 @@
 [
   {
     "number": 1,
-    "title": "Introduction to Biology",
+    "title": "Introduction to Biology"
   },
   {
     "number": 2,
-    "title": "Solving a Biological Problem",
+    "title": "Solving a Biological Problem"
   },
   {
     "number": 3,
-    "title": "Biodiversity",
+    "title": "Biodiversity"
   },
   {
     "number": 4,
-    "title": "Cell Biology",
+    "title": "Cell Biology"
   },
   {
     "number": 5,
-    "title": "Cell Cycle",
+    "title": "Cell Cycle"
   },
   {
     "number": 6,
-    "title": "Enzymes",
+    "title": "Enzymes"
   },
   {
     "number": 7,
-    "title": "Bioenergetics",
+    "title": "Bioenergetics"
   },
   {
     "number": 8,
-    "title": "Nutrition",
+    "title": "Nutrition"
   },
   {
     "number": 9,
-    "title": "Transport",
+    "title": "Transport"
   }
 ]
