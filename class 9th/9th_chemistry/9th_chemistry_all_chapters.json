@@ -1,0 +1,720 @@
+[
+    {
+        "number": 1,
+        "title": "Fundamentals of Chemistry",
+        "mcqtopics": [
+            {
+                "topicnumber": "1.1 Branches of Chemistry",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.1.json"
+            },
+            {
+                "topicnumber": "1.2 Basic Definitions",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.2.json"
+            },
+            {
+                "topicnumber": "1.2.1 Elements, Compounds and Mixtures",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.2.1.json"
+            },
+            {
+                "topicnumber": "1.2.2 Atomic Number and Mass Number",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.2.2.json"
+            },
+            {
+                "topicnumber": "1.2.3 Relative Atomic Mass and Atomic Mass Unit",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.2.3.json"
+            },
+            {
+                "topicnumber": "1.2.4 How to write a Chemical Formula",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.2.4.json"
+            },
+            {
+                "topicnumber": "1.2.5 Molecular Mass and Formula Mass",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.2.5.json"
+            },
+            {
+                "topicnumber": "1.3.1 Ions (Cations and Anions), Molecular Ions and Free Radicals",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.3.1.json"
+            },
+            {
+                "topicnumber": "1.3.2 Types of Molecules",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.3.2.json"
+            },
+            {
+                "topicnumber": "1.4.1 Gram Atomic Mass",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.4.1.json"
+            },
+            {
+                "topicnumber": "1.4.2 Gram Molecular Mass",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.4.2.json"
+            },
+            {
+                "topicnumber": "1.4.3 Gram Formula Mass",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.4.3.json"
+            },
+            {
+                "topicnumber": "1.5 Avogrados Number and Mole",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.5.json"
+            },
+            {
+                "topicnumber": "1.6 Chemical Calculations",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/topic_1.6.json"
+            }
+        ],
+        "QNAtopics": [
+            {
+                "topicnumber": "1.1 Branches of Chemistry",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.1.json"
+            },
+            {
+                "topicnumber": "1.2 Basic Definitions",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.2.json"
+            },
+            {
+                "topicnumber": "1.2.1 Elements, Compounds and Mixtures",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.2.1.json"
+            },
+            {
+                "topicnumber": "1.2.2 Atomic Number and Mass Number",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.2.2.json"
+            },
+            {
+                "topicnumber": "1.2.3 Relative Atomic Mass and Atomic Mass Unit",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.2.3.json"
+            },
+            {
+                "topicnumber": "1.2.4 How to write a Chemical Formula",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.2.4.json"
+            },
+            {
+                "topicnumber": "1.2.5 Molecular Mass and Formula Mass",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.2.5.json"
+            },
+            {
+                "topicnumber": "1.3.1 Ions (Cations and Anions), Molecular Ions and Free Radicals",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.3.1.json"
+            },
+            {
+                "topicnumber": "1.3.2 Types of Molecules",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.3.2.json"
+            },
+            {
+                "topicnumber": "1.4.1 Gram Atomic Mass",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.4.1.json"
+            },
+            {
+                "topicnumber": "1.4.2 Gram Molecular Mass",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.4.2.json"
+            },
+            {
+                "topicnumber": "1.4.3 Gram Formula Mass",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.4.3.json"
+            },
+            {
+                "topicnumber": "1.5 Avogrados Number and Mole",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.5.json"
+            },
+            {
+                "topicnumber": "1.6 Chemical Calculations",
+                "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_1.Fundamentals_of_Chemistry/questions_and_answers/topic_1.6.json"
+            }
+        ]
+    },
+        {
+            "number": 2,
+            "title": "Structure of Atoms",
+            "mcqtopics": [
+                {
+                    "topicnumber": "2.1 Theories and Experiments Related to Structure of Atom",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/topic_2.1.json"
+                },
+                {
+                    "topicnumber": "2.1.1 Rutherfords Atomic Model",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/topic_2.1.1.json"
+                },
+                {
+                    "topicnumber": "2.1.2 Bohrs Atomic Theory",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/topic_2.1.2.json"
+                },
+                {
+                    "topicnumber": "2.2.1. The Electronic Configuration of First 18 Elements",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/topic_2.2.1.json"
+                },
+                {
+                    "topicnumber": "2.3 Isotopes",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/topic_2.3.json"
+                }
+            ],
+            "QNAtopics": [
+                {
+                    "topicnumber": "2.1 Theories and Experiments Related to Structure of Atom",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/questions_and_answers/topic_2.1.json"
+                },
+                {
+                    "topicnumber": "2.1.1 Rutherfords Atomic Model",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/questions_and_answers/topic_2.1.1.json"
+                },
+                {
+                    "topicnumber": "2.1.2 Bohrs Atomic Theory",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/questions_and_answers/topic_2.1.2.json"
+                },
+                {
+                    "topicnumber": "2.2.1. The Electronic Configuration of First 18 Elements",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/questions_and_answers/topic_2.2.1.json"
+                },
+                {
+                    "topicnumber": "2.3 Isotopes",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_2.Structure_of_Atoms/questions_and_answers/topic_2.3.json"
+                }
+            ]
+        },{
+            "number": 3,
+            "title": "Periodic Table and Periodicity of Properties",
+            "mcqtopics": [
+                {
+                    "topicnumber": "3.1 Periodic Table",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/topic_3.1.json"
+                },
+                {
+                    "topicnumber": "3.2.1 Atomic Size and Atomic Radius",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/topic_3.2.1.json"
+                },
+                {
+                    "topicnumber": "3.2.2 Shielding Effect",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/topic_3.2.2.json"
+                },
+                {
+                    "topicnumber": "3.2.3 Ionization Energy",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/topic_3.2.3.json"
+                },
+                {
+                    "topicnumber": "3.2.4 Electron Affinity",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/topic_3.2.4.json"
+                },
+                {
+                    "topicnumber": "3.2.5 Electronegativity",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/topic_3.2.5.json"
+                }
+            ],
+            "QNAtopics": [
+                {
+                    "topicnumber": "3.1 Periodic Table",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/questions_and_answers/topic_3.1.json"
+                },
+                {
+                    "topicnumber": "3.2.1 Atomic Size and Atomic Radius",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/questions_and_answers/topic_3.2.1.json"
+                },
+                {
+                    "topicnumber": "3.2.2 Shielding Effect",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/questions_and_answers/topic_3.2.2.json"
+                },
+                {
+                    "topicnumber": "3.2.3 Ionization Energy",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/questions_and_answers/topic_3.2.3.json"
+                },
+                {
+                    "topicnumber": "3.2.4 Electron Affinity",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/questions_and_answers/topic_3.2.4.json"
+                },
+                {
+                    "topicnumber": "3.2.5 Electronegativity",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_3.Periodic_Table_and_Periodicity_of_Properties/questions_and_answers/topic_3.2.5.json"
+                }
+            ]
+        }, {
+            "number": 4,
+            "title": "Structure of Molecules",
+            "mcqtopics": [
+                {
+                    "topicnumber": "4.1 Why do Atoms Form Chemical Bonds",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.1.json"
+                },
+                {
+                    "topicnumber": "4.2 Chemical Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.2.json"
+                },
+                {
+                    "topicnumber": "4.3.1 Ionic Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.3.1.json"
+                },
+                {
+                    "topicnumber": "4.3.2 Covalent Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.3.2.json"
+                },
+                {
+                    "topicnumber": "4.3.3 Dative Covalent or Coordinate Covalent Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.3.3.json"
+                },
+                {
+                    "topicnumber": "4.3.4 Polar and Non-polar Covalent Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.3.4.json"
+                },
+                {
+                    "topicnumber": "4.3.5 Metallic Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.3.5.json"
+                },
+                {
+                    "topicnumber": "4.4.1 Dipole-Dipole Interactions",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.4.1.json"
+                },
+                {
+                    "topicnumber": "4.4.2 Hydrogen Bonding",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.4.2.json"
+                },
+                {
+                    "topicnumber": "4.5.1 Ionic Compounds",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.5.1.json"
+                },
+                {
+                    "topicnumber": "4.5.2 Covalent Compounds",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.5.2.json"
+                },
+                {
+                    "topicnumber": "4.5.3 Coordinate Covalent Compounds",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.5.3.json"
+                },
+                {
+                    "topicnumber": "4.5.4 Metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/topic_4.5.4.json"
+                }
+            ],
+            "QNAtopics": [
+                {
+                    "topicnumber": "4.1 Why do Atoms Form Chemical Bonds",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.1.json"
+                },
+                {
+                    "topicnumber": "4.2 Chemical Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.2.json"
+                },
+                {
+                    "topicnumber": "4.3.1 Ionic Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.3.1.json"
+                },
+                {
+                    "topicnumber": "4.3.2 Covalent Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.3.2.json"
+                },
+                {
+                    "topicnumber": "4.3.3 Dative Covalent or Coordinate Covalent Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.3.3.json"
+                },
+                {
+                    "topicnumber": "4.3.4 Polar and Non-polar Covalent Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.3.4.json"
+                },
+                {
+                    "topicnumber": "4.3.5 Metallic Bond",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.3.5.json"
+                },
+                {
+                    "topicnumber": "4.4.1 Dipole-Dipole Interactions",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.4.1.json"
+                },
+                {
+                    "topicnumber": "4.4.2 Hydrogen Bonding",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.4.2.json"
+                },
+                {
+                    "topicnumber": "4.5.1 Ionic Compounds",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.5.1.json"
+                },
+                {
+                    "topicnumber": "4.5.2 Covalent Compounds",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.5.2.json"
+                },
+                {
+                    "topicnumber": "4.5.3 Coordinate Covalent Compounds",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.5.3.json"
+                },
+                {
+                    "topicnumber": "4.5.4 Metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_4.Structure_of_Molecules/questions_and_answers/topic_4.5.4.json"
+                }
+            ]
+        },{
+            "number": 5,
+            "title": "Physical States of Matter",
+            "mcqtopics": [
+                {
+                    "topicnumber": "5.1 Gaseous State: Typical Properties",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.1.json"
+                },
+                {
+                    "topicnumber": "5.2.1 Boyles Law",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.2.1.json"
+                },
+                {
+                    "topicnumber": "5.2.2 Charles Law",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.2.2.json"
+                },
+                {
+                    "topicnumber": "5.3.1 Evaporation",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.3.1.json"
+                },
+                {
+                    "topicnumber": "5.3.2 Vapour Pressure",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.3.2.json"
+                },
+                {
+                    "topicnumber": "5.3.3 Boiling Point",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.3.3.json"
+                },
+                {
+                    "topicnumber": "5.3.4 Freezing Point",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.3.4.json"
+                },
+                {
+                    "topicnumber": "5.3.5 Diffusion",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.3.5.json"
+                },
+                {
+                    "topicnumber": "5.3.6 Density",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.3.6.json"
+                },
+                {
+                    "topicnumber": "5.4.1 Melting point",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.4.1.json"
+                },
+                {
+                    "topicnumber": "5.4.2 Rigidity",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.4.2.json"
+                },
+                {
+                    "topicnumber": "5.4.3 Density",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.4.3.json"
+                },
+                {
+                    "topicnumber": "5.5.1 Amorphous Solids",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.5.1.json"
+                },
+                {
+                    "topicnumber": "5.5.2 Crystalline Solids",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.5.2.json"
+                },
+                {
+                    "topicnumber": "5.6 Allotropy",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/topic_5.6.json"
+                }
+            ],
+            "QNAtopics": [
+                {
+                    "topicnumber": "5.1 Gaseous State: Typical Properties",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.1.json"
+                },
+                {
+                    "topicnumber": "5.2.1 Boyles Law",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.2.1.json"
+                },
+                {
+                    "topicnumber": "5.2.2 Charles Law",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.2.2.json"
+                },
+                {
+                    "topicnumber": "5.3.1 Evaporation",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.3.1.json"
+                },
+                {
+                    "topicnumber": "5.3.2 Vapour Pressure",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.3.2.json"
+                },
+                {
+                    "topicnumber": "5.3.3 Boiling Point",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.3.3.json"
+                },
+                {
+                    "topicnumber": "5.3.4 Freezing Point",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.3.4.json"
+                },
+                {
+                    "topicnumber": "5.3.5 Diffusion",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.3.5.json"
+                },
+                {
+                    "topicnumber": "5.3.6 Density",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.3.6.json"
+                },
+                {
+                    "topicnumber": "5.4.1 Melting point",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.4.1.json"
+                },
+                {
+                    "topicnumber": "5.4.2 Rigidity",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.4.2.json"
+                },
+                {
+                    "topicnumber": "5.4.3 Density",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.4.3.json"
+                },
+                {
+                    "topicnumber": "5.5.1 Amorphous Solids",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.5.1.json"
+                },
+                {
+                    "topicnumber": "5.5.2 Crystalline Solids",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.5.2.json"
+                },
+                {
+                    "topicnumber": "5.6 Allotropy",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_5.Physical_States_of_Matter/questions_and_answers/topic_5.6.json"
+                }
+            ]
+        },  {
+            "number": 6,
+            "title": "Solution",
+            "mcqtopics": [
+                {
+                    "topicnumber": "6.1. Solution",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/topic_6.1.json"
+                },
+                {
+                    "topicnumber": "6.2. Saturated Solution",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/topic_6.2.json"
+                },
+                {
+                    "topicnumber": "6.3. Types of Solution",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/topic_6.3.json"
+                },
+                {
+                    "topicnumber": "6.4. Concentration Units",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/topic_6.4.json"
+                },
+                {
+                    "topicnumber": "6.5. Solubility",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/topic_6.5.json"
+                },
+                {
+                    "topicnumber": "6.6. Comparison of Solution, Suspension and Colloid",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/topic_6.6.json"
+                }
+            ],
+            "QNAtopics": [
+                {
+                    "topicnumber": "6.1. Solution",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/questions_and_answers/topic_6.1.json"
+                },
+                {
+                    "topicnumber": "6.2. Saturated Solution",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/questions_and_answers/topic_6.2.json"
+                },
+                {
+                    "topicnumber": "6.3. Types of Solution",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/questions_and_answers/topic_6.3.json"
+                },
+                {
+                    "topicnumber": "6.4. Concentration Units",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/questions_and_answers/topic_6.4.json"
+                },
+                {
+                    "topicnumber": "6.5. Solubility",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/questions_and_answers/topic_6.5.json"
+                },
+                {
+                    "topicnumber": "6.6. Comparison of Solution, Suspension and Colloid",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_6.Solutions/questions_and_answers/topic_6.6.json"
+                }
+            ]
+        },  {
+            "number": 7,
+            "title": "Electrochemistry",
+            "mcqtopics": [
+                {
+                    "topicnumber": "7.1 OXIDATION AND REDUCTION REACTIONS",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.1.json"
+                },
+                {
+                    "topicnumber": "7.2 OXIDATION STATE AND RULES FOR ASSIGNING OXIDATION STATE",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.2.json"
+                },
+                {
+                    "topicnumber": "7.3 OXIDIZING AND REDUCING AGENTS",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.3.json"
+                },
+                {
+                    "topicnumber": "7.4 OXIDATION -REDUCTION REACTIONS",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.4.json"
+                },
+                {
+                    "topicnumber": "7.5.1 Concept of Electrolytes",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.5.1.json"
+                },
+                {
+                    "topicnumber": "7.5.2 Electrolytic cells",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.5.2.json"
+                },
+                {
+                    "topicnumber": "7.5.2.3 Electrolysis of Water",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.5.2.3.json"
+                },
+                {
+                    "topicnumber": "7.5.3 Galvanic Cell",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.5.3.json"
+                },
+                {
+                    "topicnumber": "7.6.1 Manufacture of Sodium Metal from Fused NaCl",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.6.1.json"
+                },
+                {
+                    "topicnumber": "7.6.2 Manufacture of NaOH from Brine",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.6.2.json"
+                },
+                {
+                    "topicnumber": "7.7 CORROSION AND ITS PREVENTION",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.7.json"
+                },
+                {
+                    "topicnumber": "7.7.1 Rusting of Iron",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.7.1.json"
+                },
+                {
+                    "topicnumber": "7.7.2 Prevention of Corrosion",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.7.2.json"
+                },
+                {
+                    "topicnumber": "7.7.3 Zinc coating or Galvanizing",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.7.3.json"
+                },
+                {
+                    "topicnumber": "7.7.4 Electroplating",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/topic_7.7.4.json"
+                }
+            ],
+            "QNAtopics": [
+                {
+                    "topicnumber": "7.1 OXIDATION AND REDUCTION REACTIONS",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.1.json"
+                },
+                {
+                    "topicnumber": "7.2 OXIDATION STATE AND RULES FOR ASSIGNING OXIDATION STATE",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.2.json"
+                },
+                {
+                    "topicnumber": "7.3 OXIDIZING AND REDUCING AGENTS",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.3.json"
+                },
+                {
+                    "topicnumber": "7.4 OXIDATION -REDUCTION REACTIONS",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.4.json"
+                },
+                {
+                    "topicnumber": "7.5.1 Concept of Electrolytes",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.5.1.json"
+                },
+                {
+                    "topicnumber": "7.5.2 Electrolytic cells",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.5.2.json"
+                },
+                {
+                    "topicnumber": "7.5.2.3 Electrolysis of Water",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.5.2.3.json"
+                },
+                {
+                    "topicnumber": "7.5.3 Galvanic Cell",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.5.3.json"
+                },
+                {
+                    "topicnumber": "7.6.1 Manufacture of Sodium Metal from Fused NaCl",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.6.1.json"
+                },
+                {
+                    "topicnumber": "7.6.2 Manufacture of NaOH from Brine",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.6.2.json"
+                },
+                {
+                    "topicnumber": "7.7 CORROSION AND ITS PREVENTION",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.7.json"
+                },
+                {
+                    "topicnumber": "7.7.1 Rusting of Iron",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.7.1.json"
+                },
+                {
+                    "topicnumber": "7.7.2 Prevention of Corrosion",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.7.2.json"
+                },
+                {
+                    "topicnumber": "7.7.3 Zinc coating or Galvanizing",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.7.3.json"
+                },
+                {
+                    "topicnumber": "7.7.4 Electroplating",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_7.Electrochemistry/questions_and_answers/topic_7.7.4.json"
+                }
+            ]
+        }, {
+            "number": 8,
+            "title": "Chemical Reactivity",
+            "mcqtopics": [
+                {
+                    "topicnumber": "8.1 Metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/topic_8.1.json"
+                },
+                {
+                    "topicnumber": "8.1.1 Electropositive Character",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/topic_8.1.1.json"
+                },
+                {
+                    "topicnumber": "8.1.2 Comparison of Reactivities of Alkali and Alkaline Earth Metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/topic_8.1.2.json"
+                },
+                {
+                    "topicnumber": "8.2 Non-Metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/topic_8.2.json"
+                },
+                {
+                    "topicnumber": "8.2.0 Important chemical properties of non-metals are af",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/topic_8.2.0.json"
+                },
+                {
+                    "topicnumber": "8.2.1 Comparison of Reactivity of the Halogens",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/topic_8.2.1.json"
+                },
+                {
+                    "topicnumber": "8.2.2 Important Reactions of Halogens",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/topic_8.2.2.json"
+                },
+                {
+                    "topicnumber": "8.2.3 Significance of Non-metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/topic_8.2.3.json"
+                }
+            ],
+            "QNAtopics": [
+                {
+                    "topicnumber": "8.1 Metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/questions_and_answers/topic_8.1.json"
+                },
+                {
+                    "topicnumber": "8.1.1 Electropositive Character",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/questions_and_answers/topic_8.1.1.json"
+                },
+                {
+                    "topicnumber": "8.1.2 Comparison of Reactivities of Alkali and Alkaline Earth Metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/questions_and_answers/topic_8.1.2.json"
+                },
+                {
+                    "topicnumber": "8.2 Non-Metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/questions_and_answers/topic_8.2.json"
+                },
+                {
+                    "topicnumber": "8.2.0 Important chemical properties of non-metals are af",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/questions_and_answers/topic_8.2.0.json"
+                },
+                {
+                    "topicnumber": "8.2.1 Comparison of Reactivity of the Halogens",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/questions_and_answers/topic_8.2.1.json"
+                },
+                {
+                    "topicnumber": "8.2.2 Important Reactions of Halogens",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/questions_and_answers/topic_8.2.2.json"
+                },
+                {
+                    "topicnumber": "8.2.3 Significance of Non-metals",
+                    "api": "https://qasimrao236.github.io/premium-study-hub/class%209th/9th_chemistry/chapter_8.Chemical_Reactivity/questions_and_answers/topic_8.2.3.json"
+                }
+            ]
+        }
+    
+    
+    
+
+]
